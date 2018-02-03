@@ -28,4 +28,3 @@ for i in range(broj):
     pd()
     write('('+str(x)+'. '+str(y)+')', align='center')
 
-
