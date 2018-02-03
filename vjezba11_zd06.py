@@ -22,4 +22,3 @@ for i in range(10):
     circle(start)
     end_fill()
     start*=0.9    
-    
