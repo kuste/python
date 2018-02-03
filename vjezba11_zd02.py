@@ -1,4 +1,4 @@
-#Ivica Kustura
+
 #vjezba11 zad 2
 
 from turtle import *
@@ -29,11 +29,6 @@ def main():
 
 
 main()
-
-
-
-
-
 
 
 pu()
