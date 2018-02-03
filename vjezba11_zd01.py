@@ -1,4 +1,4 @@
-#Ivica Kustura
+
 #vjezba11 zad 1
 
 from turtle import *
