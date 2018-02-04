@@ -29,3 +29,4 @@ izlaz.write(r)
 
 ulaz.close()
 izlaz.close()
+
