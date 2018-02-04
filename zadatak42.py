@@ -18,6 +18,3 @@ for i in znakovi:
             rezultat.append(j)
 
 print(rezultat)
-
-
-
