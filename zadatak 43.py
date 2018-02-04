@@ -25,4 +25,3 @@ for k in range(len(listabrojeva)):
 
 
     izlaz.write(konacnalista)
-
