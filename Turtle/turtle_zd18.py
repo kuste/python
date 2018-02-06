@@ -1,0 +1,31 @@
+#CRTA OLIMPIJSKE KRUZNICE
+
+from turtle import *
+
+speed(0)
+r=int(input('unesite radius r:'))
+pensize(5)
+pencolor('blue')
+circle(r)
+pu()
+goto(2*r,0)
+pd()
+pencolor('black')
+circle(r)
+pu()
+goto(4*r,0)
+pencolor('red')
+pd()
+circle(r)
+pu()
+goto((3*r),-r)
+pd()
+pencolor('green')
+circle(r)
+pu()
+goto(r,-r)
+pd()
+pencolor('yellow')
+circle(r)
+
+mainloop()
