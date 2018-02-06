@@ -14,7 +14,6 @@ def prost(n):
     else:
         return False
 
-
 def izmedju (n, m):
     brojeva=0
     for i in range(n,m+1):
@@ -55,10 +54,6 @@ def nporedu (n):
 
 
     return max(listaprostih)
-
-
-
-
 
 def main():
 
